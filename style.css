@@ -23,8 +23,9 @@ a{
     border-radius: 5px;
     
 }
-#top-banner{
-    align-content:end;
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 span{
     color:orange;
